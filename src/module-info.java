@@ -1,0 +1,2 @@
+module miotto_bastardo {
+}
